@@ -1,24 +1,19 @@
 Verti by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+1- Defina uma problema e uma proposta de solução digital via um webapp;
 
-A super simple + modern responsive website template. Took a slightly different direction
-on the mobile version's slide out nav (floating button versus a full on titlebar).
+2- Selecione um template que converse com sua proposta de solução;
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+3.Adapte o template para a sua proposta de solução;
 
-(* = Not included)
+4.Suba o projeto para o github (https://github.com/);
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+5.Suba o projeto para o netlify (https://app.netlify.com/). 
 
-AJ
-aj@lkn.io | @ajlkn
+Entregável: Link do github e do netlify
 
-
-Credits:
-
+	
 	Demo Images:
 		Unsplash (unsplash.com)
 
