@@ -97,7 +97,7 @@ input, select, textarea {
 		background-size: 100% 30em, auto;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: #000000;
 		font-weight: 300;
 		line-height: 2.25em;
 	}
@@ -131,7 +131,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #444;
+		color: #000000;
 		font-weight: 800;
 	}
 
@@ -1491,7 +1491,7 @@ input, select, textarea {
 		font-weight: 800;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
-		color: #444;
+		color: #fff1f1;
 	}
 
 	form input[type="text"],
@@ -1511,7 +1511,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #ffffff;
 		}
 
 	form input[type="text"],
@@ -1577,11 +1577,13 @@ input, select, textarea {
 		}
 
 		table thead {
-			background: #404248;
+			background: #fdfdff;
 			color: #fff;
 		}
 
 /* Image */
+
+
 
 	.image {
 		display: inline-block;
@@ -1764,7 +1766,7 @@ input, select, textarea {
 	}
 
 		ul.menu li {
-			border-left: solid 1px #e0e0e0;
+			border-left: solid 1px #ffffff;
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -1779,7 +1781,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: #ffffff;
 		border-radius: 6px;
 		box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
 		padding: 2em;
@@ -1888,7 +1890,7 @@ input, select, textarea {
 				outline: 0;
 				opacity: 0.75;
 				text-decoration: none;
-				background: #222222;
+				background: #036d2f;
 			}
 
 				.widget.contact ul li a:before {
@@ -1898,11 +1900,11 @@ input, select, textarea {
 				}
 
 				.widget.contact ul li a:hover {
-					background: #444444;
+					background: #ffffff;
 				}
 
 				.widget.contact ul li a:active {
-					background: #666666;
+					background: #ffffff;
 				}
 
 /* Wrappers */
@@ -1986,7 +1988,7 @@ input, select, textarea {
 					transition: background-color .25s ease-in-out;
 					font-weight: 800;
 					letter-spacing: 0.025em;
-					color: #696969;
+						color: #000000;
 					text-decoration: none;
 					border-radius: 6px;
 					padding: 0.5em 1em 0.5em 1em;
@@ -2005,14 +2007,14 @@ input, select, textarea {
 				}
 
 				#nav ul li.current a {
-					background: #444;
+					background: #05882c;
 					color: #fff;
 				}
 
 	.dropotron {
 		background: #fff;
 		letter-spacing: 0.025em;
-		color: #696969;
+		color: #000000;
 		text-decoration: none;
 		border-radius: 6px;
 		padding: 0.75em 0;
